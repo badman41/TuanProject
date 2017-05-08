@@ -232,3 +232,6 @@ C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\testDevexpress\DXA
 C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\testDevexpress\DXApplication1\obj\Debug\DXApplication1.View._UC.UCHangNhap.resources
 C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\testDevexpress\DXApplication1\obj\Debug\DXApplication1.View._UC.UCTonKho.resources
 C:\Users\dangt\OneDrive\Documents\Visual Studio 2015\Projects\testDevexpress\DXApplication1\obj\Debug\DXApplication1.View._UC.chartTonKho.resources
+E:\GITHUB\TuanProject\testDevexpress\DXApplication1\bin\Debug\DXApplication1.exe.config
+E:\GITHUB\TuanProject\testDevexpress\DXApplication1\obj\Debug\DXApplication1.exe
+E:\GITHUB\TuanProject\testDevexpress\DXApplication1\obj\Debug\DXApplication1.pdb
