@@ -1,0 +1,345 @@
+F:\New folder\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\QLhocsinhgiaovien.exe.config
+F:\New folder\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\QLhocsinhgiaovien.exe
+F:\New folder\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\QLhocsinhgiaovien.pdb
+F:\New folder\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.csprojResolveAssemblyReference.cache
+F:\New folder\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.Properties.Resources.resources
+F:\New folder\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.csproj.GenerateResource.Cache
+F:\New folder\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.exe
+F:\New folder\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.pdb
+F:\New folder\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.Tabhienthi.resources
+F:\New folder\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.views.uctHocSinh.resources
+F:\New folder\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.views.Giaovien.resources
+F:\New folder\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.DangNhap.resources
+F:\New folder\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.views.uctDiem.resources
+F:\New folder\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.doiMKcs.resources
+F:\New folder\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.views.doiMk.resources
+F:\New folder\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.views.ThongkesoluongHS.resources
+F:\New folder\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.views.uctdiemchitiet.resources
+F:\Thuc tap nhom\New folder\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\QLhocsinhgiaovien.exe.config
+F:\Thuc tap nhom\New folder\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.exe
+F:\Thuc tap nhom\New folder\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.pdb
+F:\Thuc tap nhom\New folder\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\QLhocsinhgiaovien.exe
+F:\Thuc tap nhom\New folder\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\QLhocsinhgiaovien.pdb
+F:\Thuc tap nhom\New folder\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.csprojResolveAssemblyReference.cache
+F:\Thuc tap nhom\New folder\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.DangNhap.resources
+F:\Thuc tap nhom\New folder\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.doiMKcs.resources
+F:\Thuc tap nhom\New folder\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.Tabhienthi.resources
+F:\Thuc tap nhom\New folder\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.Properties.Resources.resources
+F:\Thuc tap nhom\New folder\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.views.doiMk.resources
+F:\Thuc tap nhom\New folder\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.views.Giaovien.resources
+F:\Thuc tap nhom\New folder\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.views.ThongkesoluongHS.resources
+F:\Thuc tap nhom\New folder\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.views.uctDiem.resources
+F:\Thuc tap nhom\New folder\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.views.uctdiemchitiet.resources
+F:\Thuc tap nhom\New folder\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.views.uctHocSinh.resources
+F:\Thuc tap nhom\New folder\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.csproj.GenerateResource.Cache
+F:\Thuc tap nhom\New folder\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.Catalo.resources
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\QLhocsinhgiaovien.exe.config
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.exe
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.pdb
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\QLhocsinhgiaovien.exe
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\QLhocsinhgiaovien.pdb
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.Data.v16.1.dll
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.Utils.v16.1.dll
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.Xpo.v16.1.dll
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.XtraBars.v16.1.dll
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.Data.v16.1.xml
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.Utils.v16.1.xml
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.Xpo.v16.1.xml
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.XtraBars.v16.1.xml
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.Xpo.v16.1.resources.dll
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.Xpo.v16.1.resources.dll
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.Xpo.v16.1.resources.dll
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.Xpo.v16.1.resources.dll
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.Catalo.resources
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.DangNhap.resources
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.doiMKcs.resources
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.Tabhienthi.resources
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.Phancongday.resources
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.Properties.Resources.resources
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.views.doiMk.resources
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.views.Giaovien.resources
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.views.ThongkesoluongHS.resources
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.views.uctDiem.resources
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.views.uctdiemchitiet.resources
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.views.uctHocSinh.resources
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\QLhocsinhgiaovien\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.exe.licenses
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\QLhocsinhgiaovien.exe.config
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\QLhocsinhgiaovien.exe
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\QLhocsinhgiaovien.pdb
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.Data.v16.2.xml
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.Utils.v16.2.xml
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.Xpo.v16.2.xml
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.XtraBars.v16.2.xml
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.Catalo.resources
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.DangNhap.resources
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.doiMKcs.resources
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.Tabhienthi.resources
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.Phancongday.resources
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.Properties.Resources.resources
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.views.doiMk.resources
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.views.Giaovien.resources
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.views.ThongkesoluongHS.resources
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.views.uctDiem.resources
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.views.uctdiemchitiet.resources
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.views.uctHocSinh.resources
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.exe.licenses
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.exe
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.pdb
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.ExpressApp.v16.2.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.Persistent.Base.v16.2.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.XtraReports.v16.2.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.Office.v16.2.Core.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.XtraCharts.v16.2.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.Charts.v16.2.Core.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.XtraGauges.v16.2.Core.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.PivotGrid.v16.2.Core.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.DataAccess.v16.2.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.RichEdit.v16.2.Core.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.CodeParser.v16.2.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.ExpressApp.v16.2.xml
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.Persistent.Base.v16.2.xml
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.XtraReports.v16.2.xml
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.Office.v16.2.Core.xml
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.XtraCharts.v16.2.xml
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.XtraGauges.v16.2.Core.xml
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.PivotGrid.v16.2.Core.xml
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.DataAccess.v16.2.xml
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.ExpressApp.v16.2.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.ExpressApp.v16.2.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.ExpressApp.v16.2.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.ExpressApp.v16.2.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.XtraReports.v16.2.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.XtraReports.v16.2.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.XtraReports.v16.2.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.XtraReports.v16.2.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.XtraGauges.v16.2.Core.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.XtraGauges.v16.2.Core.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.XtraGauges.v16.2.Core.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.XtraGauges.v16.2.Core.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.PivotGrid.v16.2.Core.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.PivotGrid.v16.2.Core.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.PivotGrid.v16.2.Core.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.PivotGrid.v16.2.Core.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.DataAccess.v16.2.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.DataAccess.v16.2.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.DataAccess.v16.2.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.DataAccess.v16.2.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.Chucvu.resources
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.Lop.resources
+C:\Users\User\Desktop\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.dsgiaovien.resources
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\QLhocsinhgiaovien.exe.config
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.exe
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.pdb
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\QLhocsinhgiaovien.exe
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\QLhocsinhgiaovien.pdb
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.ExpressApp.v16.2.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.Persistent.Base.v16.2.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.XtraReports.v16.2.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.Office.v16.2.Core.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.XtraCharts.v16.2.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.Charts.v16.2.Core.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.XtraGauges.v16.2.Core.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.PivotGrid.v16.2.Core.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.DataAccess.v16.2.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.RichEdit.v16.2.Core.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.CodeParser.v16.2.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.Data.v16.2.xml
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.ExpressApp.v16.2.xml
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.Persistent.Base.v16.2.xml
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.Utils.v16.2.xml
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.Xpo.v16.2.xml
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.XtraBars.v16.2.xml
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.XtraReports.v16.2.xml
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.Office.v16.2.Core.xml
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.XtraCharts.v16.2.xml
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.XtraGauges.v16.2.Core.xml
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.PivotGrid.v16.2.Core.xml
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.DataAccess.v16.2.xml
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.ExpressApp.v16.2.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.ExpressApp.v16.2.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.ExpressApp.v16.2.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.ExpressApp.v16.2.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.Xpo.v16.2.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.Xpo.v16.2.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.Xpo.v16.2.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.Xpo.v16.2.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.XtraReports.v16.2.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.XtraReports.v16.2.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.XtraReports.v16.2.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.XtraReports.v16.2.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.XtraCharts.v16.2.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.XtraCharts.v16.2.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.XtraCharts.v16.2.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.XtraCharts.v16.2.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.XtraGauges.v16.2.Core.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.XtraGauges.v16.2.Core.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.XtraGauges.v16.2.Core.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.XtraGauges.v16.2.Core.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.PivotGrid.v16.2.Core.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.PivotGrid.v16.2.Core.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.PivotGrid.v16.2.Core.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.PivotGrid.v16.2.Core.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.DataAccess.v16.2.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.DataAccess.v16.2.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.DataAccess.v16.2.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.DataAccess.v16.2.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.csprojResolveAssemblyReference.cache
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.Catalo.resources
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.Chucvu.resources
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.DangNhap.resources
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.doiMKcs.resources
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.dsgiaovien.resources
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.Tabhienthi.resources
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.Lop.resources
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.Phancongday.resources
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.Properties.Resources.resources
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.views.doiMk.resources
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.views.Giaovien.resources
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.views.ThongkesoluongHS.resources
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.views.uctDiem.resources
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.views.uctdiemchitiet.resources
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.views.uctHocSinh.resources
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.csproj.GenerateResource.Cache
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.exe.licenses
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.XtraNavBar.v16.2.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\DevExpress.XtraNavBar.v16.2.xml
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\de\DevExpress.XtraNavBar.v16.2.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\es\DevExpress.XtraNavBar.v16.2.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ja\DevExpress.XtraNavBar.v16.2.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.XtraNavBar.v16.2.resources.dll
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.views.UCPhanCongDay.resources
+E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.csproj.ResolveComReference.cache

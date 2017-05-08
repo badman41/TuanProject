@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C74F1677-90E4-41E8-86B8-AD4F642A8BF7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QLhocsinhgiaovien</RootNamespace>
+    <AssemblyName>QLhocsinhgiaovien</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v16.1, Version=16.1.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v16.1.Core, Version=16.1.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v16.1, Version=16.1.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpo.v16.1, Version=16.1.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v16.1, Version=16.1.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v16.1, Version=16.1.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Catalo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Catalo.Designer.cs">
+      <DependentUpon>Catalo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="controller\diemchitietcontroller.cs" />
+    <Compile Include="controller\Diemcontroller.cs" />
+    <Compile Include="controller\giaoviencontroller.cs" />
+    <Compile Include="controller\hocsinhcontroller.cs" />
+    <Compile Include="controller\Lopcontroller.cs" />
+    <Compile Include="DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DangNhap.Designer.cs">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="doiMKcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="doiMKcs.Designer.cs">
+      <DependentUpon>doiMKcs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Account.cs" />
+    <Compile Include="Model\connection.cs" />
+    <Compile Include="Model\diemchitietmod.cs" />
+    <Compile Include="Model\Diemmod.cs" />
+    <Compile Include="Model\Giaovienmod.cs" />
+    <Compile Include="Model\Hocsinhmod.cs" />
+    <Compile Include="Model\lopmod.cs" />
+    <Compile Include="Phancongday.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Phancongday.Designer.cs">
+      <DependentUpon>Phancongday.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Until\Static.cs" />
+    <Compile Include="views\doiMk.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="views\doiMk.Designer.cs">
+      <DependentUpon>doiMk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\Giaovien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="views\Giaovien.Designer.cs">
+      <DependentUpon>Giaovien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\ThongkesoluongHS.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="views\ThongkesoluongHS.Designer.cs">
+      <DependentUpon>ThongkesoluongHS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\uctDiem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="views\uctDiem.Designer.cs">
+      <DependentUpon>uctDiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\uctdiemchitiet.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="views\uctdiemchitiet.Designer.cs">
+      <DependentUpon>uctdiemchitiet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\uctHocSinh.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="views\uctHocSinh.Designer.cs">
+      <DependentUpon>uctHocSinh.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Catalo.resx">
+      <DependentUpon>Catalo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DangNhap.resx">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="doiMKcs.resx">
+      <DependentUpon>doiMKcs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Phancongday.resx">
+      <DependentUpon>Phancongday.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="views\doiMk.resx">
+      <DependentUpon>doiMk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\Giaovien.resx">
+      <DependentUpon>Giaovien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\ThongkesoluongHS.resx">
+      <DependentUpon>ThongkesoluongHS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\uctDiem.resx">
+      <DependentUpon>uctDiem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\uctdiemchitiet.resx">
+      <DependentUpon>uctdiemchitiet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\uctHocSinh.resx">
+      <DependentUpon>uctHocSinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ảnh\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
