@@ -29,7 +29,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            DevExpress.XtraGrid.GridLevelNode gridLevelNode2 = new DevExpress.XtraGrid.GridLevelNode();
+            DevExpress.XtraGrid.GridLevelNode gridLevelNode1 = new DevExpress.XtraGrid.GridLevelNode();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmCTPX));
             this.lblMaHDN = new System.Windows.Forms.Label();
             this.cmbNhanVien = new System.Windows.Forms.ComboBox();
@@ -122,9 +122,9 @@
             // grC
             // 
             this.grC.Dock = System.Windows.Forms.DockStyle.Bottom;
-            gridLevelNode2.RelationName = "Level1";
+            gridLevelNode1.RelationName = "Level1";
             this.grC.LevelTree.Nodes.AddRange(new DevExpress.XtraGrid.GridLevelNode[] {
-            gridLevelNode2});
+            gridLevelNode1});
             this.grC.Location = new System.Drawing.Point(0, 276);
             this.grC.MainView = this.grV;
             this.grC.Name = "grC";
@@ -188,6 +188,7 @@
             this.button2.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.button2.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // btnXoa
             // 

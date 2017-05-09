@@ -98,7 +98,29 @@ namespace DXApplication1.Controller
             return DataAccess.ExecQuery("BieuDo_HangNhap_DoanhThu", sp);
         }
 
+        // Phần doanh thu
+        public DataTable LayBDDoanhThu_Thang(string date1, string date2)
+        {
+            SqlParameter[] sp = new SqlParameter[2];
+            sp[0] = new SqlParameter("@date1", SqlDbType.DateTime, 10);
+            sp[1] = new SqlParameter("@date2", SqlDbType.DateTime, 10);
 
+
+            sp[0].Value = date1;
+            sp[1].Value = date2;
+
+            return DataAccess.ExecQuery("DoanhThu_Thang", sp);
+        }
+        public DataTable LayBDDoanhThu_Nam(string Nam)
+        {
+            SqlParameter[] sp = new SqlParameter[1];
+            sp[0] = new SqlParameter("@Nam", SqlDbType.NVarChar, 50);
+
+            sp[0].Value = Nam;
+
+
+            return DataAccess.ExecQuery("DoanhThu_Nam", sp);
+        }
 
 
     }

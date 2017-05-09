@@ -79,5 +79,6 @@ namespace DXApplication1.Controller
 
             return DataAccess.ExecQuery("BieuDo_TonKhoTatca", sp);
         }
+       
     }
 }

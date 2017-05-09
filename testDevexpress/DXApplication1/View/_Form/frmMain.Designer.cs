@@ -39,6 +39,8 @@
             this.navBarGroup4 = new DevExpress.XtraNavBar.NavBarGroup();
             this.navBarItem11 = new DevExpress.XtraNavBar.NavBarItem();
             this.navBarItem12 = new DevExpress.XtraNavBar.NavBarItem();
+            this.navBarItem1 = new DevExpress.XtraNavBar.NavBarItem();
+            this.navBarItem2 = new DevExpress.XtraNavBar.NavBarItem();
             this.panelControl1 = new DevExpress.XtraEditors.PanelControl();
             this.pnlMain = new System.Windows.Forms.Panel();
             this.panel1 = new System.Windows.Forms.Panel();
@@ -75,7 +77,6 @@
             this.skinRibbonGalleryBarItem1 = new DevExpress.XtraBars.SkinRibbonGalleryBarItem();
             this.ribbonPage1 = new DevExpress.XtraBars.Ribbon.RibbonPage();
             this.ribbonPageGroup1 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
-            this.ribbonPageGroup2 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
             this.ribbonPage2 = new DevExpress.XtraBars.Ribbon.RibbonPage();
             this.ribbonPageGroup3 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
             this.ribbonPage3 = new DevExpress.XtraBars.Ribbon.RibbonPage();
@@ -88,8 +89,6 @@
             this.ribbonPage5 = new DevExpress.XtraBars.Ribbon.RibbonPage();
             this.ribbonPageGroup9 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
             this.ribbonStatusBar1 = new DevExpress.XtraBars.Ribbon.RibbonStatusBar();
-            this.navBarItem1 = new DevExpress.XtraNavBar.NavBarItem();
-            this.navBarItem2 = new DevExpress.XtraNavBar.NavBarItem();
             ((System.ComponentModel.ISupportInitialize)(this.navBarControl2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.panelControl1)).BeginInit();
             this.panelControl1.SuspendLayout();
@@ -126,6 +125,7 @@
             this.navBarControl2.Size = new System.Drawing.Size(200, 603);
             this.navBarControl2.TabIndex = 3;
             this.navBarControl2.Text = "navBarControl2";
+            this.navBarControl2.Click += new System.EventHandler(this.navBarControl2_Click);
             // 
             // navBarGroup3
             // 
@@ -143,16 +143,19 @@
             // 
             this.navBarItem7.Caption = "Phiếu nhập";
             this.navBarItem7.Name = "navBarItem7";
+            this.navBarItem7.LinkClicked += new DevExpress.XtraNavBar.NavBarLinkEventHandler(this.navBarItem7_LinkClicked);
             // 
             // navBarItem8
             // 
             this.navBarItem8.Caption = "Phiếu xuất";
             this.navBarItem8.Name = "navBarItem8";
+            this.navBarItem8.LinkClicked += new DevExpress.XtraNavBar.NavBarLinkEventHandler(this.navBarItem8_LinkClicked);
             // 
             // navBarItem9
             // 
             this.navBarItem9.Caption = "Hóa đơn bán";
             this.navBarItem9.Name = "navBarItem9";
+            this.navBarItem9.LinkClicked += new DevExpress.XtraNavBar.NavBarLinkEventHandler(this.navBarItem9_LinkClicked);
             // 
             // navBarSeparatorItem2
             // 
@@ -180,11 +183,25 @@
             // 
             this.navBarItem11.Caption = "Hàng bán";
             this.navBarItem11.Name = "navBarItem11";
+            this.navBarItem11.LinkClicked += new DevExpress.XtraNavBar.NavBarLinkEventHandler(this.navBarItem11_LinkClicked);
             // 
             // navBarItem12
             // 
             this.navBarItem12.Caption = "Hàng nhập";
             this.navBarItem12.Name = "navBarItem12";
+            this.navBarItem12.LinkClicked += new DevExpress.XtraNavBar.NavBarLinkEventHandler(this.navBarItem12_LinkClicked);
+            // 
+            // navBarItem1
+            // 
+            this.navBarItem1.Caption = "Hàng tồn kho";
+            this.navBarItem1.Name = "navBarItem1";
+            this.navBarItem1.LinkClicked += new DevExpress.XtraNavBar.NavBarLinkEventHandler(this.navBarItem1_LinkClicked);
+            // 
+            // navBarItem2
+            // 
+            this.navBarItem2.Caption = "Doanh thu";
+            this.navBarItem2.Name = "navBarItem2";
+            this.navBarItem2.LinkClicked += new DevExpress.XtraNavBar.NavBarLinkEventHandler(this.navBarItem2_LinkClicked);
             // 
             // panelControl1
             // 
@@ -199,6 +216,8 @@
             // 
             // pnlMain
             // 
+            this.pnlMain.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pnlMain.BackgroundImage")));
+            this.pnlMain.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnlMain.Dock = System.Windows.Forms.DockStyle.Right;
             this.pnlMain.Location = new System.Drawing.Point(208, 2);
             this.pnlMain.Name = "pnlMain";
@@ -284,6 +303,7 @@
             this.barButtonItem2.Id = 2;
             this.barButtonItem2.ImageOptions.LargeImage = ((System.Drawing.Image)(resources.GetObject("barButtonItem2.ImageOptions.LargeImage")));
             this.barButtonItem2.Name = "barButtonItem2";
+            this.barButtonItem2.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barButtonItem2_ItemClick_1);
             // 
             // barButtonItem3
             // 
@@ -291,6 +311,7 @@
             this.barButtonItem3.Id = 3;
             this.barButtonItem3.ImageOptions.LargeImage = ((System.Drawing.Image)(resources.GetObject("barButtonItem3.ImageOptions.LargeImage")));
             this.barButtonItem3.Name = "barButtonItem3";
+            this.barButtonItem3.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barButtonItem3_ItemClick);
             // 
             // barButtonItem4
             // 
@@ -298,6 +319,7 @@
             this.barButtonItem4.Id = 4;
             this.barButtonItem4.ImageOptions.LargeImage = ((System.Drawing.Image)(resources.GetObject("barButtonItem4.ImageOptions.LargeImage")));
             this.barButtonItem4.Name = "barButtonItem4";
+            this.barButtonItem4.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barButtonItem4_ItemClick);
             // 
             // barButtonItem5
             // 
@@ -438,6 +460,7 @@
             this.Báo.Id = 33;
             this.Báo.ImageOptions.LargeImage = ((System.Drawing.Image)(resources.GetObject("Báo.ImageOptions.LargeImage")));
             this.Báo.Name = "Báo";
+            this.Báo.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.Báo_ItemClick_1);
             // 
             // Th
             // 
@@ -469,6 +492,7 @@
             this.barButtonItem26.Id = 38;
             this.barButtonItem26.ImageOptions.LargeImage = ((System.Drawing.Image)(resources.GetObject("barButtonItem26.ImageOptions.LargeImage")));
             this.barButtonItem26.Name = "barButtonItem26";
+            this.barButtonItem26.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barButtonItem26_ItemClick_1);
             // 
             // barCheckItem1
             // 
@@ -491,8 +515,7 @@
             // ribbonPage1
             // 
             this.ribbonPage1.Groups.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPageGroup[] {
-            this.ribbonPageGroup1,
-            this.ribbonPageGroup2});
+            this.ribbonPageGroup1});
             this.ribbonPage1.Name = "ribbonPage1";
             this.ribbonPage1.Text = "Hệ thống";
             // 
@@ -504,13 +527,6 @@
             this.ribbonPageGroup1.ItemLinks.Add(this.barButtonItem4);
             this.ribbonPageGroup1.Name = "ribbonPageGroup1";
             this.ribbonPageGroup1.Text = "Tài khoản";
-            // 
-            // ribbonPageGroup2
-            // 
-            this.ribbonPageGroup2.ItemLinks.Add(this.barButtonItem5);
-            this.ribbonPageGroup2.ItemLinks.Add(this.barButtonItem6);
-            this.ribbonPageGroup2.Name = "ribbonPageGroup2";
-            this.ribbonPageGroup2.Text = "Dữ liệu";
             // 
             // ribbonPage2
             // 
@@ -602,16 +618,6 @@
             this.ribbonStatusBar1.Ribbon = this.ribbon;
             this.ribbonStatusBar1.Size = new System.Drawing.Size(1274, 31);
             // 
-            // navBarItem1
-            // 
-            this.navBarItem1.Caption = "Hàng tồn kho";
-            this.navBarItem1.Name = "navBarItem1";
-            // 
-            // navBarItem2
-            // 
-            this.navBarItem2.Caption = "Doanh thu";
-            this.navBarItem2.Name = "navBarItem2";
-            // 
             // frmMain
             // 
             this.AllowFormGlass = DevExpress.Utils.DefaultBoolean.True;
@@ -690,7 +696,6 @@
         private DevExpress.XtraBars.BarButtonItem barButtonItem26;
         private DevExpress.XtraBars.Ribbon.RibbonPage ribbonPage1;
         private DevExpress.XtraBars.Ribbon.RibbonPageGroup ribbonPageGroup1;
-        private DevExpress.XtraBars.Ribbon.RibbonPageGroup ribbonPageGroup2;
         private DevExpress.XtraBars.Ribbon.RibbonPage ribbonPage2;
         private DevExpress.XtraBars.Ribbon.RibbonPageGroup ribbonPageGroup3;
         private DevExpress.XtraBars.Ribbon.RibbonPage ribbonPage3;

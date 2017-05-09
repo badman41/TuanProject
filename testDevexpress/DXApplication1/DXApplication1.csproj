@@ -86,6 +86,7 @@
     <Reference Include="DevExpress.XtraScheduler.v16.2.Extensions, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.XtraTreeList.v16.2, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.XtraVerticalGrid.v16.2, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.CSharp" />
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Configuration" />
@@ -138,6 +139,12 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>QuanLyBanHang_lenhDataSet1.xsd</DependentUpon>
     </Compile>
+    <Compile Include="View\Chart\chartDoanhThu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Chart\chartDoanhThu.Designer.cs">
+      <DependentUpon>chartDoanhThu.cs</DependentUpon>
+    </Compile>
     <Compile Include="View\Chart\chartTonKho.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -155,6 +162,12 @@
     </Compile>
     <Compile Include="View\Chart\chartHangBan.Designer.cs">
       <DependentUpon>chartHangBan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Report\DoanhThu\UCDoanhThu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Report\DoanhThu\UCDoanhThu.Designer.cs">
+      <DependentUpon>UCDoanhThu.cs</DependentUpon>
     </Compile>
     <Compile Include="View\Report\HangBan\UCHangBan.cs">
       <SubType>UserControl</SubType>
@@ -278,6 +291,9 @@
     <Compile Include="View\_UC\UCTaiKhoan.Designer.cs">
       <DependentUpon>UCTaiKhoan.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="View\Chart\chartDoanhThu.resx">
+      <DependentUpon>chartDoanhThu.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="View\Chart\chartTonKho.resx">
       <DependentUpon>chartTonKho.cs</DependentUpon>
     </EmbeddedResource>
@@ -286,6 +302,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="View\Chart\chartHangBan.resx">
       <DependentUpon>chartHangBan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Report\DoanhThu\UCDoanhThu.resx">
+      <DependentUpon>UCDoanhThu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="View\Report\HangBan\UCHangBan.resx">
       <DependentUpon>UCHangBan.cs</DependentUpon>
@@ -422,7 +441,35 @@
   <ItemGroup>
     <None Include="Resources\Symbol-Delete.ico" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
        Other similar extension points exist, see Microsoft.Common.targets.

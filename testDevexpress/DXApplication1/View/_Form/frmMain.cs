@@ -60,8 +60,8 @@ namespace DXApplication1
 
         private void frmMain_Load(object sender, EventArgs e)
         {
-            //frm = new FormDangNhap();
-            //frm.ShowDialog();
+            frm = new FormDangNhap();
+            frm.ShowDialog();
 
         }
 
@@ -160,6 +160,99 @@ namespace DXApplication1
             pnlMain.Controls.Clear();
             chartTonKho uchdb = new chartTonKho();
             pnlMain.Controls.Add(uchdb);
+        }
+
+        private void barButtonItem26_ItemClick_1(object sender, ItemClickEventArgs e)
+        {
+            pnlMain.Controls.Clear();
+            chartDoanhThu uchdb = new chartDoanhThu();
+            pnlMain.Controls.Add(uchdb);
+        }
+
+        private void Báo_ItemClick_1(object sender, ItemClickEventArgs e)
+        {
+            pnlMain.Controls.Clear();
+            UCDoanhThu uchdb = new UCDoanhThu();
+            pnlMain.Controls.Add(uchdb);
+        }
+
+        private void navBarControl2_Click(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void navBarItem7_LinkClicked(object sender, DevExpress.XtraNavBar.NavBarLinkEventArgs e)
+        {
+            pnlMain.Controls.Clear();
+            UCPhieuNhap uchdb = new UCPhieuNhap();
+            pnlMain.Controls.Add(uchdb);
+        }
+
+        private void navBarItem8_LinkClicked(object sender, DevExpress.XtraNavBar.NavBarLinkEventArgs e)
+        {
+            pnlMain.Controls.Clear();
+            UCPhieuXuat uchdb = new UCPhieuXuat();
+            pnlMain.Controls.Add(uchdb);
+        }
+
+        private void navBarItem9_LinkClicked(object sender, DevExpress.XtraNavBar.NavBarLinkEventArgs e)
+        {
+            pnlMain.Controls.Clear();
+            UC_HDB uchdb = new UC_HDB();
+            pnlMain.Controls.Add(uchdb);
+        }
+
+        private void navBarItem11_LinkClicked(object sender, DevExpress.XtraNavBar.NavBarLinkEventArgs e)
+        {
+            pnlMain.Controls.Clear();
+            UCHangBan uchdb = new UCHangBan();
+            pnlMain.Controls.Add(uchdb);
+        }
+
+        private void navBarItem12_LinkClicked(object sender, DevExpress.XtraNavBar.NavBarLinkEventArgs e)
+        {
+            pnlMain.Controls.Clear();
+            UCHangNhap uchdb = new UCHangNhap();
+            pnlMain.Controls.Add(uchdb);
+        }
+
+        private void navBarItem1_LinkClicked(object sender, DevExpress.XtraNavBar.NavBarLinkEventArgs e)
+        {
+            pnlMain.Controls.Clear();
+            UCTonKho uchdb = new UCTonKho();
+            pnlMain.Controls.Add(uchdb);
+        }
+
+        private void navBarItem2_LinkClicked(object sender, DevExpress.XtraNavBar.NavBarLinkEventArgs e)
+        {
+            pnlMain.Controls.Clear();
+            UCDoanhThu uchdb = new UCDoanhThu();
+            pnlMain.Controls.Add(uchdb);
+        }
+
+        private void barButtonItem2_ItemClick_1(object sender, ItemClickEventArgs e)
+        {
+            if (MessageBox.Show("Bạn muốn đăng xuất khỏi tài khoản này?", "", MessageBoxButtons.OKCancel, MessageBoxIcon.Question) == DialogResult.OK)
+            {
+                this.Enabled = false;
+                frm = new FormDangNhap();
+                frm.ShowDialog();
+                this.Enabled = true;
+            }
+
+        }
+
+        private void barButtonItem3_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            frmDoiMK frmdmk = new frmDoiMK();
+            frmdmk.ShowDialog();
+      
+        }
+
+        private void barButtonItem4_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            frmDangKyTK frmdk = new frmDangKyTK();
+            frmdk.ShowDialog();
         }
     }
 }
