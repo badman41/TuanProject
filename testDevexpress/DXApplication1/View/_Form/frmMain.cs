@@ -254,5 +254,33 @@ namespace DXApplication1
             frmDangKyTK frmdk = new frmDangKyTK();
             frmdk.ShowDialog();
         }
+
+        private void barButtonItem10_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            pnlMain.Controls.Clear();
+            HangHoa uchdb = new HangHoa();
+            pnlMain.Controls.Add(uchdb);
+        }
+
+        private void barButtonItem11_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            pnlMain.Controls.Clear();
+            Kho uchdb = new Kho();
+            pnlMain.Controls.Add(uchdb);
+        }
+
+        private void Nh_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            pnlMain.Controls.Clear();
+            UCNhomHang uchdb = new UCNhomHang();
+            pnlMain.Controls.Add(uchdb);
+        }
+
+        private void barButtonItem12_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            pnlMain.Controls.Clear();
+            UCNHACUNGCAPS uchdb = new UCNHACUNGCAPS();
+            pnlMain.Controls.Add(uchdb);
+        }
     }
 }

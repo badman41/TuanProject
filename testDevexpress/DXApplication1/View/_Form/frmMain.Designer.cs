@@ -370,6 +370,7 @@
             this.barButtonItem10.Id = 11;
             this.barButtonItem10.ImageOptions.LargeImage = ((System.Drawing.Image)(resources.GetObject("barButtonItem10.ImageOptions.LargeImage")));
             this.barButtonItem10.Name = "barButtonItem10";
+            this.barButtonItem10.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barButtonItem10_ItemClick);
             // 
             // barButtonItem11
             // 
@@ -377,6 +378,7 @@
             this.barButtonItem11.Id = 12;
             this.barButtonItem11.ImageOptions.LargeImage = ((System.Drawing.Image)(resources.GetObject("barButtonItem11.ImageOptions.LargeImage")));
             this.barButtonItem11.Name = "barButtonItem11";
+            this.barButtonItem11.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barButtonItem11_ItemClick);
             // 
             // Nh
             // 
@@ -384,6 +386,7 @@
             this.Nh.Id = 13;
             this.Nh.ImageOptions.LargeImage = ((System.Drawing.Image)(resources.GetObject("Nh.ImageOptions.LargeImage")));
             this.Nh.Name = "Nh";
+            this.Nh.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.Nh_ItemClick);
             // 
             // barButtonItem12
             // 
@@ -391,6 +394,7 @@
             this.barButtonItem12.Id = 14;
             this.barButtonItem12.ImageOptions.LargeImage = ((System.Drawing.Image)(resources.GetObject("barButtonItem12.ImageOptions.LargeImage")));
             this.barButtonItem12.Name = "barButtonItem12";
+            this.barButtonItem12.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barButtonItem12_ItemClick);
             // 
             // barButtonItem13
             // 

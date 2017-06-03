@@ -469,3 +469,8 @@ E:\GITHUB\TuanProject\testDevexpress\DXApplication1\obj\Debug\DXApplication1.csp
 E:\GITHUB\TuanProject\testDevexpress\DXApplication1\obj\Debug\DXApplication1.exe.licenses
 E:\GITHUB\TuanProject\testDevexpress\DXApplication1\obj\Debug\DXApplication1.View._UC.UCDoanhThu.resources
 E:\GITHUB\TuanProject\testDevexpress\DXApplication1\obj\Debug\DXApplication1.csproj.ResolveComReference.cache
+E:\GITHUB\TuanProject\testDevexpress\DXApplication1\obj\Debug\DXApplication1.View._UC.HangHoa.resources
+E:\GITHUB\TuanProject\testDevexpress\DXApplication1\obj\Debug\DXApplication1.View._UC.Kho.resources
+E:\GITHUB\TuanProject\testDevexpress\DXApplication1\obj\Debug\DXApplication1.View._UC.UCNHACUNGCAPS.resources
+E:\GITHUB\TuanProject\testDevexpress\DXApplication1\obj\Debug\DXApplication1.View._UC.UCNhomHang.resources
+E:\GITHUB\TuanProject\testDevexpress\DXApplication1\bin\Debug\DevComponents.DotNetBar2.dll
