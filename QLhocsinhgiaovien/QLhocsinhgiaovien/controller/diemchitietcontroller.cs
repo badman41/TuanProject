@@ -7,6 +7,6 @@ using System.Threading.Tasks;
 namespace QLhocsinhgiaovien.controller
 {
     class diemchitietcontroller
-    {
+    {                                ////
     }
 }

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace QLhocsinhgiaovien.controller
 {
     class chucvucontroller
-    {
+    {   //ghghjgjg
         public static int Insearchchucvu(string _MaCV, string _TenCV)
         {
             try

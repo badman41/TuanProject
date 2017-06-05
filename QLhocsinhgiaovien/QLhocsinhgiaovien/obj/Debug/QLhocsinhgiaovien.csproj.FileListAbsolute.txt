@@ -343,3 +343,7 @@ E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\b
 E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\ru\DevExpress.XtraNavBar.v16.2.resources.dll
 E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.views.UCPhanCongDay.resources
 E:\Thực tập nhóm_TH13\bai1thuctapnhom\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.csproj.ResolveComReference.cache
+E:\GITHUB\TuanProject\QLhocsinhgiaovien\QLhocsinhgiaovien\bin\Debug\QLhocsinhgiaovien.exe.config
+E:\GITHUB\TuanProject\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.csproj.ResolveComReference.cache
+E:\GITHUB\TuanProject\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.exe
+E:\GITHUB\TuanProject\QLhocsinhgiaovien\QLhocsinhgiaovien\obj\Debug\QLhocsinhgiaovien.pdb

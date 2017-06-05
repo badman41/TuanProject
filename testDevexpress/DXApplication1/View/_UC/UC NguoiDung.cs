@@ -114,6 +114,10 @@ namespace DXApplication1.View._UC
             btnXoa.Enabled = false;
             btnHuy.Enabled = true;
             btnLuu.Enabled = true;
+            DataTable dt = nvC.GetAllData();
+            int x = int.Parse(dt.Rows[dt.Rows.Count - 1][0].ToString().Split('V')[1]) + 1;
+            txtMaNV.Text = "NV" + (x < 10 ? "0" + x.ToString() : x.ToString());
+            txtMaNV.Enabled = false;
         }
 
         private void btnLuu_Click(object sender, EventArgs e)
